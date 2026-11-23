@@ -1,0 +1,425 @@
+{
+  "id": "classic-pelmeni",
+  "slug": "classic-russian-pelmeni",
+  "category": "main_course",
+  "cuisine": "russian",
+  "servings": 4,
+  "prepTimeMinutes": 70,
+  "cookTimeMinutes": 10,
+  "restTimeMinutes": 30,
+  "totalTimeMinutes": 110,
+  "difficulty": "medium",
+  "ingredients": [
+    {
+      "id": "flour",
+      "amount": 400,
+      "unit": "g"
+    },
+    {
+      "id": "water_dough",
+      "amount": 180,
+      "unit": "ml"
+    },
+    {
+      "id": "egg",
+      "amount": 1,
+      "unit": "piece"
+    },
+    {
+      "id": "salt_dough",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": "ground_beef",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "id": "ground_pork",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "id": "onion",
+      "amount": 1,
+      "unit": "medium"
+    },
+    {
+      "id": "garlic",
+      "amount": 2,
+      "unit": "cloves"
+    },
+    {
+      "id": "water_filling",
+      "amount": 60,
+      "unit": "ml"
+    },
+    {
+      "id": "salt_filling",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": "black_pepper",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": "bay_leaf",
+      "amount": 2,
+      "unit": "pieces",
+      "optional": true
+    },
+    {
+      "id": "sour_cream",
+      "amount": 100,
+      "unit": "g",
+      "optional": true
+    },
+    {
+      "id": "butter",
+      "amount": 20,
+      "unit": "g",
+      "optional": true
+    },
+    {
+      "id": "water_cooking",
+      "amount": 3000,
+      "unit": "ml"
+    },
+    {
+      "id": "salt_cooking",
+      "amount": 2,
+      "unit": "tsp"
+    }
+  ],
+  "localizations": {
+    "en": {
+      "title": "Classic Russian Pelmeni",
+      "description": "Tender homemade dumplings filled with juicy beef and pork, traditionally served with butter or sour cream.",
+      "difficulty": "Medium",
+      "ingredientGroups": {
+        "dough": "Dough",
+        "filling": "Filling",
+        "cooking": "For boiling",
+        "serving": "To serve"
+      },
+      "ingredientNames": {
+        "flour": "All-purpose flour",
+        "water_dough": "Water (for dough)",
+        "egg": "Egg",
+        "salt_dough": "Salt (for dough)",
+        "ground_beef": "Ground beef",
+        "ground_pork": "Ground pork",
+        "onion": "Onion",
+        "garlic": "Garlic",
+        "water_filling": "Cold water (for filling)",
+        "salt_filling": "Salt (for filling)",
+        "black_pepper": "Ground black pepper",
+        "bay_leaf": "Bay leaves",
+        "sour_cream": "Sour cream",
+        "butter": "Butter",
+        "water_cooking": "Water (for boiling)",
+        "salt_cooking": "Salt (for boiling)"
+      },
+      "steps": [
+        {
+          "id": "prepare_ingredients",
+          "title": "Measure and prepare the ingredients",
+          "instruction": "Measure 400 g of flour, 180 ml of room-temperature water, 1 egg and 1/2 teaspoon of salt for the dough. Keep the beef and pork chilled until you make the filling. Set out a large bowl, rolling pin, 6–7 cm round cutter (or glass), and a tray dusted lightly with flour. This keeps the dough from drying while you work."
+        },
+        {
+          "id": "mix_dough",
+          "title": "Combine the dough ingredients",
+          "instruction": "Mix the flour and salt in a large bowl and make a well in the center. Crack in the egg and pour in most of the measured water. Stir with a fork or spoon, drawing flour in from the edges, until the mixture forms rough clumps. Add the remaining water gradually if there is dry flour at the bottom; the dough should be firm and slightly tacky, not runny."
+        },
+        {
+          "id": "knead_dough",
+          "title": "Knead until smooth and elastic",
+          "instruction": "Transfer the dough to a clean work surface and knead for 8–10 minutes: push it away with the heel of your hand, fold it back, and turn it a quarter turn. At first it may look rough, but it should become smooth, springy and easy to shape. If it sticks heavily, dust the surface with a little flour; avoid adding too much, or the wrappers may become tough."
+        },
+        {
+          "id": "rest_dough",
+          "title": "Rest the dough for 30 minutes",
+          "instruction": "Shape the dough into a ball and cover it tightly with a bowl, reusable wrap or a slightly damp kitchen towel. Leave at room temperature for 30 minutes so the gluten relaxes. The dough will be much easier to roll thinly without shrinking back. While it rests, prepare the meat filling."
+        },
+        {
+          "id": "prepare_aromatics",
+          "title": "Finely chop the onion and garlic",
+          "instruction": "Peel the medium onion and 2 garlic cloves. Grate the onion on the fine side of a grater, or chop it as finely as possible, to avoid large crunchy pieces. Mince or press the garlic. Keep the onion juices: they help keep the filling moist."
+        },
+        {
+          "id": "mix_filling",
+          "title": "Make the juicy meat filling",
+          "instruction": "Combine 250 g ground beef, 250 g ground pork, the onion, garlic, 1 teaspoon salt and 1/2 teaspoon black pepper in a bowl. Pour in 60 ml cold water in 2–3 additions and mix thoroughly for 2–3 minutes until the filling becomes cohesive and slightly sticky. Cover and refrigerate while you roll the dough; do not leave raw meat sitting at room temperature."
+        },
+        {
+          "id": "divide_dough",
+          "title": "Divide the dough into manageable pieces",
+          "instruction": "Place the rested dough on a lightly floured surface. Cut it into 3–4 equal portions so each piece is easy to roll. Keep the portions you are not using covered at all times. Lightly flour your rolling pin and the work surface, using only enough flour to prevent sticking."
+        },
+        {
+          "id": "roll_and_cut",
+          "title": "Roll thinly and cut out circles",
+          "instruction": "Roll one portion into an even sheet approximately 1–2 mm thick. Cut out circles 6–7 cm in diameter with a cutter or upside-down glass. Remove the scraps and keep them covered; after a short rest, you can re-roll them. Transfer the circles to a lightly floured surface and cover them if you are not filling them immediately, so the edges stay pliable."
+        },
+        {
+          "id": "add_filling",
+          "title": "Portion the filling carefully",
+          "instruction": "Put about 1 level teaspoon of chilled filling in the center of each circle, leaving at least a 1 cm clean border all around. Do not overfill: too much meat makes the edges difficult to seal and the dumplings may open in the water. If flour is preventing the edges from sticking, lightly moisten just the rim with water."
+        },
+        {
+          "id": "shape_pelmeni",
+          "title": "Seal and shape each pelmeni",
+          "instruction": "Fold each circle in half over the filling to form a half-moon. Starting at the center, pinch the two layers of dough together firmly, then seal toward both ends, pushing out trapped air. Bring the two pointed ends of the half-moon toward each other and pinch them together to make the traditional round pelmeni shape. Place finished dumplings in a single layer on a floured tray; do not stack them."
+        },
+        {
+          "id": "boil_water",
+          "title": "Prepare the pot for cooking",
+          "instruction": "Fill a large pot with approximately 3 liters of water, add 2 teaspoons of salt, and bring to a vigorous boil. Add 2 bay leaves if you like. Use a pot with plenty of room so the dumplings can move freely; cook in batches rather than crowding the pot. Have a slotted spoon and serving bowl ready."
+        },
+        {
+          "id": "cook_pelmeni",
+          "title": "Boil until the meat is fully cooked",
+          "instruction": "Gently lower a batch of pelmeni into the boiling water. Stir carefully along the bottom for the first 30–60 seconds so they do not stick together or to the pot. Let the water return to a gentle boil, then cook until the dumplings rise to the surface; continue simmering for about 3–5 more minutes. Cut one open or check that the center of the meat filling reaches 74°C / 165°F. Frozen pelmeni can go straight into boiling water, but usually need a few extra minutes."
+        },
+        {
+          "id": "serve_and_store",
+          "title": "Drain, serve and store leftovers",
+          "instruction": "Lift the cooked pelmeni out with a slotted spoon and let excess water drain. Toss with 20 g butter or serve with 100 g sour cream; add pepper if desired. Serve immediately while hot. To freeze uncooked pelmeni, arrange them separately on a tray until solid, then transfer to a sealed freezer bag; boil from frozen rather than thawing first."
+        }
+      ],
+      "tips": [
+        "Keep unused dough covered so it does not dry out.",
+        "Freeze uncooked pelmeni in a single layer before transferring to a bag; cook from frozen and allow extra time."
+      ]
+    },
+    "ru": {
+      "title": "Классические пельмени",
+      "description": "Нежные домашние пельмени с сочной начинкой из говядины и свинины. Традиционно подаются со сливочным маслом или сметаной.",
+      "difficulty": "Средняя",
+      "ingredientGroups": {
+        "dough": "Тесто",
+        "filling": "Начинка",
+        "cooking": "Для варки",
+        "serving": "Для подачи"
+      },
+      "ingredientNames": {
+        "flour": "Пшеничная мука",
+        "water_dough": "Вода (для теста)",
+        "egg": "Яйцо",
+        "salt_dough": "Соль (для теста)",
+        "ground_beef": "Говяжий фарш",
+        "ground_pork": "Свиной фарш",
+        "onion": "Репчатый лук",
+        "garlic": "Чеснок",
+        "water_filling": "Холодная вода (для начинки)",
+        "salt_filling": "Соль (для начинки)",
+        "black_pepper": "Чёрный молотый перец",
+        "bay_leaf": "Лавровый лист",
+        "sour_cream": "Сметана",
+        "butter": "Сливочное масло",
+        "water_cooking": "Вода (для варки)",
+        "salt_cooking": "Соль (для варки)"
+      },
+      "steps": [
+        {
+          "id": "prepare_ingredients",
+          "title": "Подготовьте ингредиенты и инвентарь",
+          "instruction": "Отмерьте 400 г муки, 180 мл воды комнатной температуры, 1 яйцо и 1/2 чайной ложки соли для теста. Говяжий и свиной фарш держите в холодильнике до приготовления начинки. Подготовьте большую миску, скалку, стакан или круглую форму диаметром 6–7 см, а также слегка присыпанный мукой поднос для готовых пельменей."
+        },
+        {
+          "id": "mix_dough",
+          "title": "Смешайте ингредиенты для теста",
+          "instruction": "В большой миске соедините муку и соль и сделайте в центре углубление. Разбейте туда яйцо и влейте большую часть отмеренной воды. Перемешивайте вилкой или ложкой, постепенно захватывая муку с краёв, пока не получатся крупные комочки. Если на дне осталась сухая мука, понемногу добавляйте оставшуюся воду: тесто должно быть плотным и немного липким, но не жидким."
+        },
+        {
+          "id": "knead_dough",
+          "title": "Тщательно вымесите тесто",
+          "instruction": "Переложите тесто на чистую рабочую поверхность и месите 8–10 минут: надавливайте основанием ладони, складывайте тесто и поворачивайте. Сначала оно может быть неоднородным, но постепенно станет гладким, упругим и податливым. Если тесто сильно липнет, слегка присыпьте поверхность мукой, не добавляя слишком много, иначе оболочка пельменей будет жёсткой."
+        },
+        {
+          "id": "rest_dough",
+          "title": "Оставьте тесто отдыхать на 30 минут",
+          "instruction": "Сформируйте шар и плотно накройте миской, плёнкой или слегка влажным полотенцем. Оставьте при комнатной температуре на 30 минут, чтобы клейковина расслабилась. После этого тесто будет легче тонко раскатать, и оно не станет сильно стягиваться обратно. Пока тесто отдыхает, займитесь начинкой."
+        },
+        {
+          "id": "prepare_aromatics",
+          "title": "Измельчите лук и чеснок",
+          "instruction": "Очистите одну среднюю луковицу и 2 зубчика чеснока. Натрите лук на мелкой тёрке или порубите как можно мельче, чтобы в начинке не ощущались крупные кусочки. Чеснок мелко нарежьте или пропустите через пресс. Луковый сок не сливайте: он сделает фарш сочнее."
+        },
+        {
+          "id": "mix_filling",
+          "title": "Приготовьте сочную мясную начинку",
+          "instruction": "Сложите в миску 250 г говяжьего и 250 г свиного фарша, добавьте лук, чеснок, 1 чайную ложку соли и 1/2 чайной ложки чёрного перца. Влейте 60 мл холодной воды в 2–3 приёма и тщательно перемешивайте 2–3 минуты, пока фарш не станет однородным и слегка вязким. Накройте и уберите в холодильник на время раскатки: сырой фарш не следует долго держать при комнатной температуре."
+        },
+        {
+          "id": "divide_dough",
+          "title": "Разделите тесто на части",
+          "instruction": "Выложите отдохнувшее тесто на слегка присыпанный мукой стол. Разделите его на 3–4 равные части, чтобы было удобнее раскатывать. Те кусочки, с которыми пока не работаете, обязательно держите под полотенцем или плёнкой. Слегка присыпьте скалку и стол мукой, но не переусердствуйте."
+        },
+        {
+          "id": "roll_and_cut",
+          "title": "Тонко раскатайте и вырежьте кружки",
+          "instruction": "Раскатайте одну часть теста в пласт толщиной примерно 1–2 мм. Стаканом или вырубкой вырежьте кружки диаметром 6–7 см. Обрезки соберите, накройте и после небольшого отдыха раскатайте повторно. Готовые кружки положите на слегка присыпанную мукой поверхность и при необходимости накройте, чтобы края не подсыхали."
+        },
+        {
+          "id": "add_filling",
+          "title": "Разложите начинку по кружкам",
+          "instruction": "Положите в центр каждого кружка примерно 1 чайную ложку фарша без горки. По краям оставьте свободную полоску теста шириной не менее 1 см. Не кладите слишком много начинки: края будет трудно склеить, и пельмени могут раскрыться при варке. Если на краях слишком много муки и они не слипаются, слегка смочите их водой."
+        },
+        {
+          "id": "shape_pelmeni",
+          "title": "Плотно слепите пельмени",
+          "instruction": "Сложите кружок пополам поверх начинки, чтобы получился полумесяц. Начните защипывать край с середины, затем двигайтесь к концам, выдавливая воздух изнутри. Соедините два острых кончика полумесяца и крепко прижмите друг к другу — получится характерная круглая форма пельменя. Выкладывайте изделия в один слой на поднос с мукой, не складывая друг на друга."
+        },
+        {
+          "id": "boil_water",
+          "title": "Подготовьте воду для варки",
+          "instruction": "Налейте в большую кастрюлю примерно 3 литра воды, добавьте 2 чайные ложки соли и доведите до активного кипения. По желанию положите 2 лавровых листа. Пельменям должно быть свободно в воде, поэтому лучше варить их несколькими партиями. Приготовьте шумовку и миску для готовых пельменей."
+        },
+        {
+          "id": "cook_pelmeni",
+          "title": "Сварите пельмени до готовности",
+          "instruction": "Аккуратно опустите порцию пельменей в кипящую воду. В первые 30–60 секунд осторожно перемешивайте у дна, чтобы они не прилипли к кастрюле и друг к другу. Дождитесь повторного умеренного кипения и всплытия пельменей, после чего варите ещё примерно 3–5 минут. Разрежьте один пельмень или убедитесь, что температура в центре мясной начинки достигла 74 °C. Замороженные пельмени кладут в воду без размораживания, но обычно варят на несколько минут дольше."
+        },
+        {
+          "id": "serve_and_store",
+          "title": "Подавайте и замораживайте остатки",
+          "instruction": "Достаньте готовые пельмени шумовкой и дайте воде стечь. Перемешайте с 20 г сливочного масла или подайте со 100 г сметаны; по желанию добавьте перец. Ешьте сразу, пока они горячие. Чтобы заморозить сырые пельмени, разложите их отдельно друг от друга на подносе, заморозьте до твёрдого состояния и пересыпьте в герметичный пакет. Варите прямо из морозилки, не размораживая."
+        }
+      ],
+      "tips": [
+        "Держите неиспользуемое тесто под крышкой или плёнкой, чтобы оно не подсыхало.",
+        "Сырые пельмени можно заморозить в один слой, затем переложить в пакет. Варите без разморозки, увеличив время приготовления."
+      ]
+    },
+    "es": {
+      "title": "Pelmeni rusos tradicionales",
+      "description": "Empanadillas rusas caseras de masa fina, rellenas de carne jugosa de ternera y cerdo. Se sirven tradicionalmente con mantequilla o crema agria.",
+      "difficulty": "Media",
+      "ingredientGroups": {
+        "dough": "Masa",
+        "filling": "Relleno",
+        "cooking": "Para hervir",
+        "serving": "Para servir"
+      },
+      "ingredientNames": {
+        "flour": "Harina de trigo común",
+        "water_dough": "Agua (para la masa)",
+        "egg": "Huevo",
+        "salt_dough": "Sal (para la masa)",
+        "ground_beef": "Carne picada de ternera",
+        "ground_pork": "Carne picada de cerdo",
+        "onion": "Cebolla",
+        "garlic": "Ajo",
+        "water_filling": "Agua fría (para el relleno)",
+        "salt_filling": "Sal (para el relleno)",
+        "black_pepper": "Pimienta negra molida",
+        "bay_leaf": "Hojas de laurel",
+        "sour_cream": "Crema agria",
+        "butter": "Mantequilla",
+        "water_cooking": "Agua (para cocer)",
+        "salt_cooking": "Sal (para cocer)"
+      },
+      "steps": [
+        {
+          "id": "prepare_ingredients",
+          "title": "Mide los ingredientes y prepara los utensilios",
+          "instruction": "Mide 400 g de harina, 180 ml de agua a temperatura ambiente, 1 huevo y 1/2 cucharadita de sal para la masa. Mantén la carne picada de ternera y cerdo refrigerada hasta preparar el relleno. Prepara un bol grande, un rodillo, un cortador redondo o vaso de 6–7 cm y una bandeja ligeramente enharinada donde colocar los pelmeni."
+        },
+        {
+          "id": "mix_dough",
+          "title": "Mezcla los ingredientes de la masa",
+          "instruction": "Combina la harina y la sal en un bol grande y haz un hueco en el centro. Añade el huevo y la mayor parte del agua medida. Mezcla con un tenedor o cuchara, incorporando la harina desde los bordes hasta formar grumos grandes. Si queda harina seca en el fondo, agrega poco a poco el agua restante; la masa debe quedar firme y ligeramente pegajosa, nunca líquida."
+        },
+        {
+          "id": "knead_dough",
+          "title": "Amasa hasta obtener una textura elástica",
+          "instruction": "Pasa la masa a una superficie limpia y amásala durante 8–10 minutos: empuja con la base de la palma, dobla y gira un cuarto de vuelta. Al principio puede estar irregular, pero poco a poco quedará lisa, elástica y manejable. Si se pega mucho, espolvorea la superficie con un poco de harina, sin excederte para que las obleas no queden duras."
+        },
+        {
+          "id": "rest_dough",
+          "title": "Deja reposar la masa 30 minutos",
+          "instruction": "Forma una bola y cúbrela bien con un bol invertido, film reutilizable o un paño ligeramente húmedo. Déjala reposar a temperatura ambiente durante 30 minutos para que el gluten se relaje. Así podrás estirarla fina sin que se encoja tanto. Aprovecha el reposo para preparar el relleno."
+        },
+        {
+          "id": "prepare_aromatics",
+          "title": "Pica muy finamente la cebolla y el ajo",
+          "instruction": "Pela una cebolla mediana y 2 dientes de ajo. Ralla la cebolla con un rallador fino o pícala lo más pequeño posible para evitar trozos grandes en el relleno. Pica o prensa el ajo. Conserva el jugo de la cebolla, porque ayuda a que la carne quede jugosa."
+        },
+        {
+          "id": "mix_filling",
+          "title": "Prepara el relleno jugoso de carne",
+          "instruction": "Pon en un bol 250 g de ternera picada, 250 g de cerdo picado, la cebolla, el ajo, 1 cucharadita de sal y 1/2 cucharadita de pimienta negra. Añade 60 ml de agua fría en 2–3 tandas y mezcla bien durante 2–3 minutos, hasta que la carne quede homogénea y ligeramente pegajosa. Cubre el bol y refrigera el relleno mientras estiras la masa; no dejes la carne cruda mucho tiempo a temperatura ambiente."
+        },
+        {
+          "id": "divide_dough",
+          "title": "Divide la masa en porciones",
+          "instruction": "Coloca la masa reposada sobre una superficie ligeramente enharinada. Divídela en 3–4 porciones iguales para trabajar con comodidad. Mantén siempre tapadas las porciones que no estés usando. Enharina ligeramente el rodillo y la mesa, solo lo necesario para evitar que la masa se pegue."
+        },
+        {
+          "id": "roll_and_cut",
+          "title": "Estira la masa fina y corta círculos",
+          "instruction": "Estira una porción hasta obtener una lámina uniforme de aproximadamente 1–2 mm de grosor. Corta círculos de 6–7 cm de diámetro con un cortador o un vaso boca abajo. Junta los recortes, cúbrelos y vuelve a estirarlos tras un breve reposo. Coloca los círculos sobre una superficie ligeramente enharinada y tápalos si no vas a rellenarlos enseguida, para que los bordes no se sequen."
+        },
+        {
+          "id": "add_filling",
+          "title": "Coloca el relleno sin excederte",
+          "instruction": "Pon aproximadamente 1 cucharadita rasa de relleno frío en el centro de cada círculo, dejando libre un borde de al menos 1 cm. No pongas demasiada carne: dificultaría el sellado y los pelmeni podrían abrirse durante la cocción. Si los bordes no se pegan por el exceso de harina, humedécelos apenas con agua."
+        },
+        {
+          "id": "shape_pelmeni",
+          "title": "Cierra y da forma a los pelmeni",
+          "instruction": "Dobla cada círculo por la mitad sobre el relleno para formar una media luna. Pellizca primero el centro del borde y continúa hacia los extremos, expulsando el aire atrapado. Acerca las dos puntas de la media luna y presiónalas entre sí para obtener la forma redondeada tradicional. Coloca los pelmeni terminados en una sola capa sobre una bandeja enharinada; no los apiles."
+        },
+        {
+          "id": "boil_water",
+          "title": "Prepara el agua para cocerlos",
+          "instruction": "Llena una olla grande con unos 3 litros de agua, añade 2 cucharaditas de sal y lleva a ebullición fuerte. Si quieres, agrega 2 hojas de laurel. Los pelmeni necesitan espacio para moverse en el agua, así que es preferible cocerlos en varias tandas. Ten a mano una espumadera y un cuenco para servir."
+        },
+        {
+          "id": "cook_pelmeni",
+          "title": "Hierve hasta que la carne esté bien cocida",
+          "instruction": "Introduce con cuidado una tanda de pelmeni en el agua hirviendo. Remueve suavemente junto al fondo durante los primeros 30–60 segundos para evitar que se peguen entre sí o a la olla. Espera a que el agua vuelva a hervir suavemente y a que los pelmeni floten; a partir de ese momento, cuécelos unos 3–5 minutos más. Abre uno para comprobarlo o verifica que el centro del relleno alcance 74 °C / 165 °F. Los pelmeni congelados se cuecen directamente, aunque suelen necesitar unos minutos más."
+        },
+        {
+          "id": "serve_and_store",
+          "title": "Escurre, sirve y congela lo que sobre",
+          "instruction": "Saca los pelmeni con una espumadera y deja escurrir el exceso de agua. Mézclalos con 20 g de mantequilla o sírvelos con 100 g de crema agria; añade pimienta al gusto. Sírvelos inmediatamente, bien calientes. Para congelar pelmeni crudos, distribúyelos separados sobre una bandeja hasta que se endurezcan y pásalos después a una bolsa hermética. Cuécelos sin descongelar."
+        }
+      ],
+      "tips": [
+        "Mantén cubierta la masa que no estés usando para evitar que se seque.",
+        "Puedes congelar los pelmeni crudos en una sola capa y luego guardarlos en una bolsa. Cuécelos sin descongelar, aumentando el tiempo de cocción."
+      ]
+    }
+  },
+  "ingredientGroups": {
+    "dough": [
+      "flour",
+      "water_dough",
+      "egg",
+      "salt_dough"
+    ],
+    "filling": [
+      "ground_beef",
+      "ground_pork",
+      "onion",
+      "garlic",
+      "water_filling",
+      "salt_filling",
+      "black_pepper"
+    ],
+    "cooking": [
+      "water_cooking",
+      "salt_cooking",
+      "bay_leaf"
+    ],
+    "serving": [
+      "sour_cream",
+      "butter"
+    ]
+  }
+}
