@@ -1,0 +1,28 @@
+{
+  "recipes": [
+    {
+      "slug": "pelmeni",
+      "category": "main_course",
+      "cuisine": "russian",
+      "difficulty": "medium",
+      "servings": 4,
+      "prepTimeMinutes": 70,
+      "cookTimeMinutes": 10,
+      "totalTimeMinutes": 110,
+      "localizations": {
+        "en": {
+          "title": "Classic Russian Pelmeni",
+          "description": "Tender homemade dumplings filled with juicy beef and pork, traditionally served with butter or sour cream."
+        },
+        "ru": {
+          "title": "Классические пельмени",
+          "description": "Нежные домашние пельмени с сочной начинкой из говядины и свинины. Традиционно подаются со сливочным маслом или сметаной."
+        },
+        "es": {
+          "title": "Pelmeni rusos tradicionales",
+          "description": "Empanadillas rusas caseras de masa fina, rellenas de carne jugosa de ternera y cerdo. Se sirven tradicionalmente con mantequilla o crema agria."
+        }
+      }
+    }
+  ]
+}
