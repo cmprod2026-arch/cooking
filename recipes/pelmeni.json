@@ -1,6 +1,6 @@
 {
   "id": "classic-pelmeni",
-  "slug": "classic-russian-pelmeni",
+  "slug": "pelmeni",
   "category": "main_course",
   "cuisine": "russian",
   "servings": 4,
@@ -94,6 +94,65 @@
       "unit": "tsp"
     }
   ],
+  "ingredientGroups": {
+    "dough": [
+      "flour",
+      "water_dough",
+      "egg",
+      "salt_dough"
+    ],
+    "filling": [
+      "ground_beef",
+      "ground_pork",
+      "onion",
+      "garlic",
+      "water_filling",
+      "salt_filling",
+      "black_pepper"
+    ],
+    "cooking": [
+      "water_cooking",
+      "salt_cooking",
+      "bay_leaf"
+    ],
+    "serving": [
+      "sour_cream",
+      "butter"
+    ]
+  },
+  "prepSteps": [
+    "prepare_ingredients",
+    "prepare_aromatics"
+  ],
+  "timers": {
+    "knead_dough": [
+      {
+        "minSeconds": 480,
+        "maxSeconds": 600
+      }
+    ],
+    "rest_dough": [
+      {
+        "seconds": 1800
+      }
+    ],
+    "mix_filling": [
+      {
+        "minSeconds": 120,
+        "maxSeconds": 180
+      }
+    ],
+    "cook_pelmeni": [
+      {
+        "minSeconds": 30,
+        "maxSeconds": 60
+      },
+      {
+        "minSeconds": 180,
+        "maxSeconds": 300
+      }
+    ]
+  },
   "localizations": {
     "en": {
       "title": "Classic Russian Pelmeni",
@@ -395,31 +454,5 @@
         "Puedes congelar los pelmeni crudos en una sola capa y luego guardarlos en una bolsa. Cuécelos sin descongelar, aumentando el tiempo de cocción."
       ]
     }
-  },
-  "ingredientGroups": {
-    "dough": [
-      "flour",
-      "water_dough",
-      "egg",
-      "salt_dough"
-    ],
-    "filling": [
-      "ground_beef",
-      "ground_pork",
-      "onion",
-      "garlic",
-      "water_filling",
-      "salt_filling",
-      "black_pepper"
-    ],
-    "cooking": [
-      "water_cooking",
-      "salt_cooking",
-      "bay_leaf"
-    ],
-    "serving": [
-      "sour_cream",
-      "butter"
-    ]
   }
 }
